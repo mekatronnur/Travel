@@ -1,4 +1,4 @@
-                                                                                  Proje Açıklaması
+                                          Proje Açıklaması
 Bu projede, bir tur yönetim uygulaması geliştirilmiştir. Uygulama, Entity Framework kullanılarak veritabanı ile entegre bir şekilde çalışır ve kullanıcıların tur bilgilerini görüntüleme, ekleme, silme ve güncelleme işlemlerini gerçekleştirmelerine olanak tanır. Ayrıca çeşitli istatistikleri hesaplayarak kullanıcıya sunar.
 
 😀FrmStatistic - İstatistikler😀
